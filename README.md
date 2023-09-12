@@ -1,7 +1,8 @@
  # 𝐌𝐢𝐧𝐢 𝐈𝐩𝐨𝐝 𝐀𝐩𝐩 - 𝐑𝐞𝐚𝐜𝐭𝐉𝐒 🚀
  
 <br/>
- ### 🔗 Hosted link: [I-Pod-App](https://i-pod-vhmz.onrender.com/)
+  > ## Checkout the Website [Web Application](https://i-pod-vhmz.onrender.com/)
+
 <p align="center">
   <img src="https://github.com/AniketMujbaile/I-Pod/blob/main/src/Image/Img.png">
  </p>

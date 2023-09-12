@@ -78,17 +78,8 @@ For any issues related to the project, raise an ISSUE in the respective Reposito
 -  Integrated Development Environment: VSCode
    <br/>
    <br/>
-
-## 🔗 Links
-
-> ## Checkout the Website [Web Application](https://ayush-kanduri.github.io/Mini-Ipod-App-ReactJS)
->
-> ## Checkout the Application Demo Video [YouTube](https://youtu.be/XZuMTBohjBU)
-
-<br/>
-
+ 
 ## 💻 Screens
-
 <p align="justify">
  ![Home Page](./src/Image/Img1.png) 
  ![Music Page](./src/Image/Img2.png)

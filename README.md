@@ -4,13 +4,15 @@
    ## Checkout the Website [Web Application](https://i-pod-vhmz.onrender.com/)
 <br/>
 
-<p align="center">
-  <img src="https://github.com/AniketMujbaile/I-Pod/blob/main/src/Image/Img.png">
- </p>
-
 ## ⭐ Introduction
 
 This is a Mini Ipod App Project which is built using React, CSS, Javascript. It is responsive across all devices.
+
+<br/>
+
+<p align="center">
+    <img src="https://github.com/AniketMujbaile/I-Pod/blob/main/src/Image/Img1.png">
+ </p>
 
 𝐔𝐬𝐞𝐫 𝐒𝐭𝐨𝐫𝐢𝐞𝐬
 
@@ -83,7 +85,7 @@ For any issues related to the project, raise an ISSUE in the respective Reposito
  
 ## 💻 Screens
 <p align="justify">
-   <img src="https://github.com/AniketMujbaile/I-Pod/blob/main/src/Image/Img1.png">
+   <img src="https://github.com/AniketMujbaile/I-Pod/blob/main/src/Image/Img.png">
   <img src="https://github.com/AniketMujbaile/I-Pod/blob/main/src/Image/Img2.png">
   <img src="https://github.com/AniketMujbaile/I-Pod/blob/main/src/Image/Img3.png">
   <img src="https://github.com/AniketMujbaile/I-Pod/blob/main/src/Image/Img4.png">

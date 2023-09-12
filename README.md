@@ -4,6 +4,7 @@
  ### 🔗 Hosted link: [I-Pod-App](https://i-pod-vhmz.onrender.com/)
 <p align="center">
 ![Home Page](./src/Image/Img.png)
+ <img src="https://user-images.githubusercontent.com/76626529/135662491-261ae6f1-d8db-4a64-8cf3-ddb03969ebb8.PNG">
  </p>
 
 ## ⭐ Introduction

@@ -3,8 +3,7 @@
 <br/>
  ### 🔗 Hosted link: [I-Pod-App](https://i-pod-vhmz.onrender.com/)
 <p align="center">
-![Home Page](./src/Image/Img.png)
- <img src="https://github.com/AniketMujbaile/I-Pod/blob/main/src/Image/Img.png">
+  <img src="https://github.com/AniketMujbaile/I-Pod/blob/main/src/Image/Img.png">
  </p>
 
 ## ⭐ Introduction
@@ -82,11 +81,11 @@ For any issues related to the project, raise an ISSUE in the respective Reposito
  
 ## 💻 Screens
 <p align="justify">
- ![Home Page](./src/Image/Img1.png) 
- ![Music Page](./src/Image/Img2.png)
- ![Play Music Page](./src/Image/Img3.png)
- ![Games Page](./src/Image/Img4.png)
- ![Settings Page](./src/Image/Img5.png)
+   <img src="https://github.com/AniketMujbaile/I-Pod/blob/main/src/Image/Img1.png">
+  <img src="https://github.com/AniketMujbaile/I-Pod/blob/main/src/Image/Img2.png">
+  <img src="https://github.com/AniketMujbaile/I-Pod/blob/main/src/Image/Img3.png">
+  <img src="https://github.com/AniketMujbaile/I-Pod/blob/main/src/Image/Img4.png">
+  <img src="https://github.com/AniketMujbaile/I-Pod/blob/main/src/Image/Img5.png">
 </p>
 <br/>
 
